@@ -5071,28 +5071,28 @@ p.nominalBounds = new cjs.Rectangle(0,0,154.9,371.7);
 		this.intro_join.addEventListener("click", fl_ClickToGoToWebPage_8);
 		
 		function fl_ClickToGoToWebPage() {
-			window.open("http://www.adobe.com", "_self");
+			window.open("https://rmcbs.github.io/waterproofingpage", "_self");
 		}
 		function fl_ClickToGoToWebPage_2() {
-			window.open("http://www.adobe.com", "_self");
+			window.open("https://rmcbs.github.io/foundationpage", "_self");
 		}
 		function fl_ClickToGoToWebPage_3() {
-			window.open("http://www.adobe.com", "_self");
+			window.open("https://rmcbs.github.io/crawlspacepage", "_self");
 		}
 		function fl_ClickToGoToWebPage_4() {
-			window.open("http://www.adobe.com", "_self");
+			window.open("https://rmcbs.githbu.io/radonpage", "_self");
 		}
 		function fl_ClickToGoToWebPage_5() {
 			window.open("https://rmcbs.github.io/truckpage/", "_self");
 		}
 		function fl_ClickToGoToWebPage_6() {
-			window.open("http://www.adobe.com", "_self");
+			window.open("https://rmcbs.github.io/joinpage", "_self");
 		}
 		function fl_ClickToGoToWebPage_7() {
 			window.open("https://rmcbs.github.io/truckpage/", "_self");
 		}
 		function fl_ClickToGoToWebPage_8() {
-			window.open("http://www.adobe.com", "_self");
+			window.open("https://rmcbs.github.io/joinpage", "_self");
 		}
 	}
 
