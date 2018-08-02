@@ -5083,13 +5083,13 @@ p.nominalBounds = new cjs.Rectangle(0,0,154.9,371.7);
 			window.open("http://www.adobe.com", "_self");
 		}
 		function fl_ClickToGoToWebPage_5() {
-			window.open("http://www.adobe.com", "_self");
+			window.open("https://rmcbs.github.io/truckpage/", "_self");
 		}
 		function fl_ClickToGoToWebPage_6() {
 			window.open("http://www.adobe.com", "_self");
 		}
 		function fl_ClickToGoToWebPage_7() {
-			window.open("http://www.adobe.com", "_self");
+			window.open("https://rmcbs.github.io/truckpage/", "_self");
 		}
 		function fl_ClickToGoToWebPage_8() {
 			window.open("http://www.adobe.com", "_self");
