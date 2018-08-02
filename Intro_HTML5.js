@@ -5080,7 +5080,7 @@ p.nominalBounds = new cjs.Rectangle(0,0,154.9,371.7);
 			window.open("https://rmcbs.github.io/crawlspacepage", "_self");
 		}
 		function fl_ClickToGoToWebPage_4() {
-			window.open("https://rmcbs.githbu.io/radonpage", "_self");
+			window.open("https://rmcbs.github.io/radonpage", "_self");
 		}
 		function fl_ClickToGoToWebPage_5() {
 			window.open("https://rmcbs.github.io/truckpage/", "_self");
