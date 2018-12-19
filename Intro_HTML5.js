@@ -6027,9 +6027,9 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"sounds/IntroPageDesktop.mp3", id:"IntroPageDesktop"},
-		{src:"sounds/LuckyMan1.mp3", id:"LuckyMan1"},
-		{src:"sounds/Whip01_01.mp3", id:"Whip01_01"}
+		{src:"sounds/IntroPageDesktop.mp3?1545242147062", id:"IntroPageDesktop"},
+		{src:"sounds/LuckyMan1.mp3?1545242147062", id:"LuckyMan1"},
+		{src:"sounds/Whip01_01.mp3?1545242147062", id:"Whip01_01"}
 	],
 	preloads: []
 };
